@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.5">
+  <diagram name="Page-1" id="zBoh-crnz1L481YQTiIM">
+    <mxGraphModel dx="1838" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="77" width="120" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wWzdKViMLvHmdZBcwuWm-2" target="wWzdKViMLvHmdZBcwuWm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Management_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="66" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wWzdKViMLvHmdZBcwuWm-3" target="wWzdKViMLvHmdZBcwuWm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="160" y="176.5" width="44" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="192" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.resources;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="358" y="100" width="67.5" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.resources;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="356.25" y="176.5" width="67.5" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.resources;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="358" y="244" width="67.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wWzdKViMLvHmdZBcwuWm-5" target="wWzdKViMLvHmdZBcwuWm-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="212" as="sourcePoint" />
+            <mxPoint x="490" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wWzdKViMLvHmdZBcwuWm-14" target="wWzdKViMLvHmdZBcwuWm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-14" value="Management Groups" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="290" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wWzdKViMLvHmdZBcwuWm-16" target="wWzdKViMLvHmdZBcwuWm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-16" value="Subscription" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wWzdKViMLvHmdZBcwuWm-18" target="wWzdKViMLvHmdZBcwuWm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-18" value="ResrouceGroups" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wWzdKViMLvHmdZBcwuWm-20" target="wWzdKViMLvHmdZBcwuWm-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-20" value="Resources" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="351.75" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wWzdKViMLvHmdZBcwuWm-23" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp;An Azure landing zone is an environment that follows key design principles across certain&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;design areas.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;• These design principles accommodate all application portfolios and enable application&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;migration, modernization, and innovation at scale.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;• An Azure landing zone uses subscriptions to isolate and scale application resources and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;platform resources.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;• Subscriptions for application resources are called application landing zones, and subscriptions&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;for platform resources are called platform landing zones.&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-60" width="1060" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
