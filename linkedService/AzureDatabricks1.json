@@ -7,10 +7,6 @@
 			"domain": "https://adb-3293148187492662.2.azuredatabricks.net",
 			"authentication": "MSI",
 			"workspaceResourceId": "/subscriptions/b6ad0e3f-03a0-4f46-9ce3-20a6695df64a/resourceGroups/rg/providers/Microsoft.Databricks/workspaces/qqwsa",
-			"credential": {
-				"referenceName": "adf",
-				"type": "CredentialReference"
-			},
 			"newClusterNodeType": "Standard_DS3_v2",
 			"newClusterNumOfWorker": "1",
 			"newClusterVersion": "10.4.x-scala2.12",
